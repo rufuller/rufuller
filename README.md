@@ -1,8 +1,15 @@
 - 👋 Hi, I’m Rulonda Fuller
-- 👀 I’m transitioning into technical writing from creative writing and occasionally dabble in HTML and CSS
-- I love creating, whether in fiction or web development. Finding a way to marry the two is my ultimate goal.
-- 🌱 I have 5+ years of experience editing and writing high SEO blogs and articles for nonprofit organizations, freelance editing fiction and nonfiction books for indie authors, writing marketing material for high-end organizations, and editing in the academic industry.
+  
+- 👀 I’m transitioning into technical writing from creative writing and occasionally dabble in HTML and CSS.
+- 
+- 🌱 I have 5+ years of experience in content writing/editing. I have:
+  • Written/edited high-performing SEO blogs and articles for marketing and nonprofit organizations
+  • Copy edited and line edited numerous books (fiction and nonfiction) for indie authors
+- 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rulondafuller)
+
+For Fun 🎉
+Outside of work, you can find me reading fiction 📖, listening to Broadway show tunes 🎵, or breaking out my typewriter to write poetry, letters 📩, or practice good tech documentation! 😎
 
 <!---
 rufuller/rufuller is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
