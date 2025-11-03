@@ -7,6 +7,7 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rulondafuller)
 
 For Fun 🎉
+
 Outside of work, you can find me reading fiction 📖, listening to Broadway show tunes 🎵, or breaking out my typewriter to write poetry, letters 📩, or practice good tech documentation! 😎
 
 <!---
