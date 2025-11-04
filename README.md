@@ -1,10 +1,11 @@
 👋 Hi, I’m Rulonda Fuller
   
-👀 I’m transitioning into technical writing from creative writing and occasionally dabble in HTML and CSS.
+👀 I’m a content writer/editor with a creative writing background, strengthening my skills in technical writing and occasionally dabbling in HTML and CSS.
 
 🌱 I have 5+ years of experience in content writing/editing. I've used those skills to:
 - Write/edit internal documentation and SOPs
 - Write user documentation for typewriter maintenance and use.
+- Write and edit blogs and articles to ensure clear communication and match brand voice.
 
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rulondafuller)
 
